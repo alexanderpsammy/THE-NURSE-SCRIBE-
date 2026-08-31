@@ -1,0 +1,3 @@
+
+## 4. Setup shadcn/ui
+This project uses preloaded shadcn/ui components. To use them locally, initialize shadcn:

@@ -1,0 +1,2 @@
+
+Open the provided localhost URL in your browser to view the app.

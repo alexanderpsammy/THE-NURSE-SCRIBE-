@@ -1,0 +1,2 @@
+
+Configure your `tailwind.config.js` to scan your `src` directory, and add the Tailwind directives to your `src/index.css`:

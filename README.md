@@ -1,2 +1,6 @@
-# THE-NURSE-SCRIBE-
-The Nurse Scribe (TNS) is a trusted health education platform providing reliable, practical insights on skin, dental, adult, nutrition, reproductive, child, mental, medical-surgical, and public health. Empowering students, healthcare professionals, families, and communities to learn, stay informed, and live healthier lives.
+# THE NURSE SCRIBE - Setup Instructions
+
+To copy and run the code generated in this chat locally, follow these steps:
+
+## 1. Initialize a React + TypeScript project
+We recommend using Vite. Run the following commands in your terminal:

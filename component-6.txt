@@ -1,0 +1,14 @@
+
+*(Note: Ensure your `tsconfig.json` and `vite.config.ts` are configured with the `@/` path alias pointing to `./src/` as required by shadcn/ui).*
+
+## 5. Create the Files
+Create the following files in your project and paste the corresponding code from the chat into them:
+
+- `src/data/mock.ts`
+- `src/components/PatientQueue.tsx`
+- `src/components/ConsultationPanel.tsx`
+- `src/components/TeamChat.tsx`
+- `src/App.tsx`
+
+## 6. Run the App
+Start your development server:

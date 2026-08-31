@@ -1,0 +1,2 @@
+
+Then add the specific components used in the app:
